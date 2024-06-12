@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://the-engi-nerd.github.io',
                 'git_url': 'https://github.com/the-engi-nerd/calendrical',
                 'lib_path': 'calendrical'},
-  'syms': {'calendrical.core': {'calendrical.core.foo': ('core.html#foo', 'calendrical/core.py')}}}
+  'syms': {'calendrical.prelude': {'calendrical.prelude.foo': ('prelude.html#foo', 'calendrical/prelude.py')}}}
