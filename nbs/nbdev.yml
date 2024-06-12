@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "calendrical"
+  site-url: "https://the-engi-nerd.github.io/calendrical"
+  description: "Calendrical Calculations in Python"
+  repo-branch: main
+  repo-url: "https://github.com/the-engi-nerd/calendrical"
